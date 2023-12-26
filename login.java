@@ -2,7 +2,7 @@
 This is new code.
 Adding lines to extract the merge function with git.
 Allowing all possible options.
-a=20
+a=25
 The value of the a.
 }
 
